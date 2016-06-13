@@ -12,7 +12,7 @@ import java.util.List;
 
 /**
  * 自定义的Fruit适配器，用来显示ListView中的每一项
- * Created by Administrator on 2016/5/6.
+ * Created by Longder on 2016/5/6.
  */
 public class FruitAdapter extends ArrayAdapter<Fruit> {
     //layout文件id
